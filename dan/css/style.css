@@ -1,10 +1,10 @@
 body {
-	background-color: white;
+	background: url("https://i.imgur.com/MQyO1Tj.jpg");
 	text-align: center;
 	font-family: arial, san-serif;
 }
-h2 {
-	color: #778899;
+h3 {
+	color: #4169E1;
 }
 p {
 	color: #FF0000;
