@@ -1,0 +1,13 @@
+main {	
+	background: url("https://lgdesigns.github.io/unit_3/images/main-garden.jpg"); 
+	background-size: cover;
+	text-align: center;
+	font-family: arial, sam-serif;
+	font-style: italic;
+}
+h1 {
+	color: #E6E6FA;
+}
+h3 {
+	color: #E6E6FA;
+}
