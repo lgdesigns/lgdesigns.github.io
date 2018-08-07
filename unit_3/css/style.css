@@ -13,29 +13,19 @@ h3 {
 }
 #tulsi {
 	background-color: #00FF7F
-	text-align: center;
-	font-family: arial, san-serif;
 }
 #lavender {
 	background-color: #D8BFD8
-	text-align: center;
-	font-family: arial, san-serif;
 }
 #lemonbalm {
 	background-color: #F0E68C
-	text-align: center;
-	font-family: arial, san-serif;
 }
 #lemongrass {
 	background-color: #94CD32
-	text-align: center;
-	font-family: arial, san-serif;
 }
 #spilanthes {
 	background-color: #FF8C00
-	text-align: center;
-	font-family: arial, san-serif;
 }
-h4, h5, footer, p, nav {
+h4, footer, p, nav {
 	font-family: arial, san-serif;
 }
