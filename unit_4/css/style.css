@@ -1,3 +1,6 @@
+
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
+
 main {	
 	background: url("https://lgdesigns.github.io/unit_3/images/main-garden.jpg"); 
 	background-size: cover;
@@ -7,9 +10,11 @@ main {
 }
 h1 {
 	color: #E6E6FA;
+	font-family: 'Source Sans Pro', san-serif;
 }
 h3 {
 	color: #E6E6FA;
+	font-family: 'Source Sans Pro', san-serif;
 }
 #tulsi {
 	background-color: #00FF7F
@@ -26,6 +31,6 @@ h3 {
 #spilanthes {
 	background-color: #FF8C00
 }
-h4, footer, p, nav {
-	font-family: arial, san-serif;
+h4, h5, footer, p, nav {
+	font-family: 'Source Sans Pro', san-serif;
 }
