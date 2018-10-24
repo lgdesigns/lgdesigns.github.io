@@ -1,0 +1,31 @@
+main {	
+	background: url("https://lgdesigns.github.io/unit_3/images/main-garden.jpg"); 
+	background-size: cover;
+	text-align: center;
+	font-family: 'Source Sans Pro', san-serif;
+	font-style: italic;
+}
+h1 {
+	color: #E6E6FA;
+}
+h3 {
+	color: #E6E6FA;
+}
+#tulsi {
+	background-color: #00FF7F
+}
+#lavender {
+	background-color: #D8BFD8
+}
+#lemonbalm {
+	background-color: #F0E68C
+}
+#lemongrass {
+	background-color: #94CD32
+}
+#spilanthes {
+	background-color: #FF8C00
+}
+h4, footer, p, nav {
+	font-family: arial, san-serif;
+}
