@@ -44,49 +44,49 @@ img {
 	margin: 0 auto;
 }
 #products {
-  width: 1200px;
+  width: 100%;
   margin: 0 auto;
   text-align: center;
 }
 .plants {
-  width: 200px;
-  height: 550px;
-  padding: 10px;
-  margin: 0 10px;
+  width: 16.6%;
+  height: 300pt;
+  padding: .8%px;
+  margin: 0 .8%px;
   float: left;
 }
 #tulsi {
 	background-color: #00FF7F;
-	padding: 10px
+	padding: .8%
 }
 #lavender {
 	background-color: #D8BFD8;
-	padding: 10px;
+	padding: .8%;
 }
 #lemonbalm {
 	background-color: #F0E68C;
-	padding: 10px;
+	padding: .8%;
 }
 #lemongrass {
 	background-color: #94CD32;
-	padding: 10px;
+	padding: .8%;
 }
 #spilanthes {
 	background-color: #FF8C00;
-	padding: 10px;
+	padding: .8%;
 }
 #explore {
-  width: 1200px;
+  width: 100%;
   margin: 0 auto;
 }
 #docs {
-  width: 1200px;
+  width: 100%;
   margin: 0 auto;
 }
 .bio {
-  width: 550px;
-  padding: 5px;
-  margin: 0 10px;
+  width: 45.8%;
+  padding: .4%;
+  margin: 0 .8%;
   float: left;
   background-color: green;
 }
@@ -111,7 +111,46 @@ p {
 	font-family: times new roman, serif;
 }
 footer {
-  width: 1200px;
+  width: 100%;
   margin: 0 auto;
   clear: both;
+}
+
+@media only screen and (max-width: 1300px) {
+	.plants {
+  	width: 29.3%;
+  	height: 300pt;
+ 	padding: 1%px;
+  	margin: 0 1%px;
+  	float: left;
+	}
+}
+
+@media only screen and (max-width: 800px) {
+	.plants {
+  	width: 48%;
+  	height: 300pt;
+ 	padding: 1%px;
+  	margin: 0 1%px;
+  	float: left;
+	}
+	nav {
+	margin: 2em;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.plants {
+  	width: 98%;
+  	height: 300pt;
+ 	padding: 1%px;
+  	margin: 0 1%px;
+  	float: left;
+	}
+	.bio {
+  	width: 98%;
+ 	padding: 1%px;
+  	margin: 0 1%px;
+  	float: none;
+	}
 }
